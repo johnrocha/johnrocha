@@ -8,19 +8,11 @@
 
 Sou desenvolvedor Full Stack com experiência na criação e manutenção de aplicações web completas.
 
-Atuo tanto no back-end, com Java, Spring, Node.js, Express, GraphQL e REST, quanto no front-end, com Vue.js, Nuxt.js, Angular, React, Tailwind CSS e interfaces componentizadas.
+Atuo tanto no backend, com Java, Spring, Node.js, Express, GraphQL e REST, quanto no frontend, com Vue.js, Nuxt.js, Angular, React, Tailwind CSS e interfaces componentizadas.
 
 Tenho experiência com bancos de dados como MongoDB e Firebase, além de participação em projetos envolvendo campanhas, ofertas, segmentações, mensagens, analytics e agentes de IA.
 
 Gosto de trabalhar com código limpo, organização, boas práticas, princípios SOLID, SCRUM e TDD, sempre buscando criar soluções simples, úteis e de alto valor.
-
-## Formação Acadêmica
-
-- Análise de Sistemas de Computação — Universidade Metodista de São Paulo
-- Especialização em HTML, CSS, JavaScript, IA e Internet das Coisas — Mastertech
-- Informática / Tecnologia da Informação — SENAI Theobaldo De Nigris
-- Mecatrônica, Robótica e Automação — ETEC Lauro Gomes
-- Administração de Empresas — CIEE
 
 ## Atualmente estudando
 
